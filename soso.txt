@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+     <meta charset="utf-8">
+	 <meta name="viewport" content="width=device-width initial-scale=1.0">
+	 
+</head>
+<body><hr>
+ <p><strong><u><h1>L’humanité à été modelée depuis sa création par l’homme</h1>.</u></strong> Ils ont longtemps u
+ tilisés des techniques et méthodes pour s’adapter à leur environnement. Ces techni
+ques ont été développées au fur et à mesure que l’humanité évoluait. Les sciences sont donc le résultat de l’in
+telligence de l’homme qui veut comprendre son en   
+ement et le faire évoluer.<em> Depuis plusieurs siècles maintenant, les technologies ont magnifiquement révolutionnées le monde.</em> Les sciences ont ainsi permis à l’
+de comprendre la nature et le monde dans lequel il vit.<i> Les sciences naturelles comme la géologie ou la géographie permettent à l’homme de connaître son his  
+
+ re</i> et aussi les éléments constitutifs de la terre.<br> Les sciences facilitent également la tâche à l’hoc<mark> l’avènement des machines et robots</mark>.</p>
+
+    
+	
+	     <ol type="I">
+		     <li>ernso</li>
+			 <li>jak</li>
+			 <li>sasa</li>
+			 
+		 </ol>
+		 
+		 <ul>
+		 
+		  <li>ernso</li>
+			 <li>jak</li>
+			 <li>sasa</li>
+		 
+		 
+		 
+		 </ul>
+		 <title>salut</title>
+
+	
+
+
+
+
+
+
+
+
+</body>
